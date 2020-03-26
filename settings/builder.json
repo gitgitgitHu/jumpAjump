@@ -1,0 +1,43 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "startScene": "b3b95db8-3afd-430d-b7fd-31f03455ecea",
+  "title": "dontTouchLink",
+  "webOrientation": "auto",
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "encryptJs": true,
+  "xxteaKey": "bc3c2f5f-aec2-4d",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.helloworld"
+  },
+  "win32": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.helloworld",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false
+}
